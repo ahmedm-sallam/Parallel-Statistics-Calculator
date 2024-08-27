@@ -60,7 +60,7 @@ mpirun -np <number_of_processes> ./mpi
 
 - To compute the mean, variance, and standard deviation for an array:
 
-** Input : **
+**Input :**
 ```
 Enter array size: 8
 Enter array elements: 2 4 4 4 5 5 7 9
